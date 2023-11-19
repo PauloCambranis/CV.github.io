@@ -1,0 +1,64 @@
+
+Relevant experience
+----------------------------------------------------------------------
+Nucleotide data pipeline
+Thesis project
+z September 2022 – Ongoing
+I developed a pipeline using the Biopython library to extract
+DNA sequence entries from NCBI’s Nucleotide database. This
+successfully parsed and organized data to create a comprehensive 
+database of parasitic fungus species reports, categorized by
+country and host of origin.
+
+The objective was to improve the efficiency of future research by
+creating more specific PCR primers.
+
+Academic Highlights
+-----------------------------------------------------------------------
+Scientific poster
+Confiq 2021
+After suggesting modifications to a course’s final project, I was
+able to present the results in a symposium organized by the uni-
+versity. The poster was titled (translated from Spanish) "Fermen-
+tation kynetics of a mexican traditional beverage as a learning
+model for online courses using readily available materials" and is
+available (in Spanish) at https://youtu.be/qbo7UNW8fK0
+
+Microbiology and food safety experiment design
+Microbiology lab, FIQ, UADY
+2021 - Ongoing
+As a Kombucha brewer, I teamed up with two professors to de-
+sign a practical project for junior students at my faculty. We de-
+signed the parameters and the protocol the students would follow
+in order to gain insight of kombucha fermentation under tropical
+conditions. I also supported the teachers by giving talks about fer-
+mented beverages and kombucha, as well as giving advice to my
+fellow students during the experiments
+
+TRAITS
+------------------------------------------------------------------------
+
+Self-learner
+I have learned how to program and
+many other skills by myself
+Team player
+I do my best to lift a team to its highest potential
+Tinkerer
+I like to get to know things under the
+hood
+
+SKILLS & KNOWLEDGE
+------------------------------------------------------------------------
+Data Science & Statistics 
+Molecular Biology
+GNU/Linux operating systems
+Command line
+
+REFEREES
+------------------------------------------------------------------------
+Dr. Diana Escalante Rendiz
+@ FIQ UADY
+# drendiz@uady.correo.uady.mx
+Dr. Mónica Sánchez Noel
+@ FIQ UADY
+# monica.sanchez@correo.uady.mx

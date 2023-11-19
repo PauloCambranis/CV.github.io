@@ -1,0 +1,54 @@
+
+header {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  background-color: antiquewhite;
+
+}
+
+img {
+  width: 100%;
+}
+
+#main {
+  display: flex;
+  width: 100%
+
+}
+
+#qualifications {
+  width: 75% ;
+  padding: 0 10px 0 5px;
+}
+
+.segment {
+  
+}
+
+.entry {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 15px;
+}
+
+.content {
+  padding: 3px 0 3px 0;
+}
+
+.skill_box {
+  display: grid;
+  grid-template-rows: 1fr 1fr ;
+  grid-template-columns: 1fr 1fr 1fr;
+  
+}
+
+.skill_box p {
+  background-color: aqua;
+  margin: 0 5px 3px 5px;
+  /*padding: ;*/
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+}
